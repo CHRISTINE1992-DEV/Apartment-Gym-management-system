@@ -1,2 +1,2 @@
 # Apartment-Gym-management-system
-System development presentation
+System built to solve problem of manual data storage of Trainers, members and staffs of my apartment`s Gym I stay
